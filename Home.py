@@ -21,7 +21,7 @@ st.write("Introducing ProtoWerx AI Advisors – your trusted partner in navigati
 
 #with col2:
 st.header("Why Protowerx?")
-st.write("In a landscape inundated with buzzwords and flashy promises, ProtoWerx stands out as a beacon of clarity and expertise. We understand the challenges faced by small to medium-sized businesses when it comes to leveraging AI technologies effectively.")
+st.write("In a landscape inundated with buzzwords and flashy promises, Protowerx stands out as a beacon of clarity and expertise. We understand the challenges faced by small to medium-sized businesses when it comes to leveraging AI technologies effectively.")
 
 #with col3:
 st.header("Services")
