@@ -25,7 +25,7 @@ st.write("In a landscape inundated with buzzwords and flashy promises, Protowerx
 
 #with col3:
 st.header("Services")
-st.write("With a team of seasoned AI solution advisors boasting extensive experience in development, integration, and testing across diverse industries, ProtoWerx is uniquely positioned to guide you through your AI journey. We offer tailored consultation, comprehensive reports, expertly crafted architectures, and prototype AI systems, all designed to cut through the noise of AI marketing hype and deliver tangible solutions tailored to your business needs.")
+st.write("With a team of seasoned AI solution advisors boasting extensive experience in development, integration, and testing across diverse industries, Protowerx is uniquely positioned to guide you through your AI journey. We offer tailored consultation, comprehensive reports, expertly crafted architectures, and prototype AI systems, all designed to cut through the noise of AI marketing hype and deliver tangible solutions tailored to your business needs.")
              
 
              
